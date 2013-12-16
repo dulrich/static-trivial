@@ -1,0 +1,23 @@
+{
+	"name": "static-trivial",
+	"version": "0.0.1",
+	"author": "David Ulrich <dvulrich47@gmail.com>",
+	"description": "a trivial express-based file server for internal network",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/dulrich/static-trivial.git"
+	},
+	"keywords": [
+		"static",
+		"trivial",
+		"file",
+		"server"
+	],
+	"dependencies" : {
+		"express"  :  "3.x.x"
+	},
+	"license": "MIT",
+	"engines": {
+		"node": ">=0.6"
+	}
+}
