@@ -1,6 +1,6 @@
 express = require 'express'
 path    = require 'path'
-app     = express();
+app     = express()
 
 log = console.log
 
