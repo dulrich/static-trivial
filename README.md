@@ -1,5 +1,4 @@
-static-trivial
-==============
+# static-trivial #
 
 a trivial static file server for internal sharing at work
 
@@ -7,10 +6,10 @@ run `npm install` in this directory to install dependencies
 
 `content/` is the served directory
 
-Copying
-=======
 
-Copyright (C) 2013 - 2014  David Ulrich (http://github.com/dulrich)
+# Copying #
+
+Copyright (C) 2013 - 2015  David Ulrich (http://github.com/dulrich)
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as
