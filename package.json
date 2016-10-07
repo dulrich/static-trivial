@@ -16,7 +16,7 @@
 	"dependencies" : {
 		"express"  :  "3.x.x"
 	},
-	"license": "AGPLv3"
+	"license": "AGPLv3",
 	"engines": {
 		"node": ">=0.10"
 	}
